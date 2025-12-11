@@ -1,0 +1,46 @@
+import React from 'react';
+import { 
+  BookOpen, 
+  Lightbulb, 
+  FlaskConical, 
+  BriefcaseBusiness, 
+  Code, 
+  Megaphone, 
+  Palette, 
+  MonitorSmartphone,
+  User,
+  Search,
+  ShoppingCart,
+  Menu,
+  X,
+  Play,
+  ArrowRight,
+  Star,
+  Globe,
+  Mail,
+  Phone,
+  Instagram
+} from 'lucide-react';
+
+export const Icons = {
+  Math: BookOpen,
+  Idea: Lightbulb,
+  Chemistry: FlaskConical,
+  Business: BriefcaseBusiness,
+  Dev: Code,
+  Marketing: Megaphone,
+  Art: Palette,
+  Tech: MonitorSmartphone,
+  User,
+  Search,
+  Cart: ShoppingCart,
+  Menu,
+  Close: X,
+  Play,
+  ArrowRight,
+  Star,
+  Globe,
+  Mail,
+  Phone,
+  Instagram
+};
